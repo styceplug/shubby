@@ -10,7 +10,7 @@ export default function Navbar() {
       <nav className="section-container site-nav">
 
         <div className="brand-pill">
-        SOSO LAY
+OLASUBOMI STEPHANIE
         </div>
 
         <div className="nav-links">
